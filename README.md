@@ -2,11 +2,11 @@
 
 ## Welcome to My Coding Playground! 👨‍💻
 
-Hey there! I'm Momen Medhat, a passionate computer science student with a unique blend of expertise in both technology and medicine. Currently cruising through my second year, I've been riding the academic wave with a robust GPA of 3.65. 🚀
+Hey there! I'm Momen Medhat, a Django Backend developer and a passionate computer science student with a unique blend of expertise in both technology and medicine. Currently cruising through my second year, I've been riding the academic wave with a robust GPA of 3.65. 🚀
 
 ### Academic Achievements
 
-- Successfully conquered the realms of CS with courses like CS50x from Harvard, CS50 Python, and CS50 Web Development with Python.
+- Successfully conquered the realms of CS with courses from Harvard, like CS50x CS50 Python, CS50 SQL, and CS50 Web Development with Python and JavaScript.
 - Proficient in languages such as C, CPP, Python, SQL, JavaScript, CSS, and HTML.
 - Deep understanding of Object-Oriented Programming (OOP) with a particular flair for C++ and Python.
   
@@ -31,7 +31,7 @@ Hey there! I'm Momen Medhat, a passionate computer science student with a unique
 
 ### What's Next?
 
-I'm on the lookout for exciting opportunities in the realms of web development or as an intern. Eager to contribute my skills and ready to embrace new challenges.
+I'm on the lookout for exciting opportunities in the realms of web development. Eager to contribute my skills and ready to embrace new challenges.
 
 ### Let's Connect!
 
