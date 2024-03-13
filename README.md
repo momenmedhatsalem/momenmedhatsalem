@@ -6,7 +6,6 @@ Hey there! I'm Momen Medhat, a Django Backend developer and a passionate compute
 
 ### Academic Achievements
 
-- Successfully conquered the realms of CS with courses from Harvard, like CS50x CS50 Python, CS50 SQL, and CS50 Web Development with Python and JavaScript.
 - Proficient in languages such as C, CPP, Python, SQL, JavaScript, CSS, and HTML.
 - Deep understanding of Object-Oriented Programming (OOP) with a particular flair for C++ and Python.
   
