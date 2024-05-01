@@ -32,8 +32,6 @@ Hey there! I'm Momen Medhat, a Django Backend developer and a passionate compute
 
 I'm on the lookout for exciting opportunities in the realms of web development. Eager to contribute my skills and ready to embrace new challenges.
 
-### Let's Connect!
 
-I'm not just about code; I'm about collaboration and growth. Connect with me on LinkedIn and let's explore the world of possibilities together. [LinkedIn](https://www.linkedin.com/in/momenmedhatsalem/)
 
 Happy Coding! 🚀✨
