@@ -2,7 +2,7 @@
 
 ## Welcome to My Coding Playground! 👨‍💻
 
-Hey there! I'm Momen Medhat, a Django Backend developer and a passionate computer science student with a unique blend of expertise in both technology and medicine. Currently cruising through my second year, I've been riding the academic wave with a robust GPA of 3.65. 🚀
+Hey there! I'm Momen Medhat, a Django Backend developer and a passionate computer science student with a unique blend of expertise in both technology and medicine. Currently cruising through my third year, I've been riding the academic wave with a robust GPA of 3.65. 🚀
 
 ### Academic Achievements
 
